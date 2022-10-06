@@ -1,4 +1,4 @@
-## Hi there!
+### Hi there!
 👋 I’m Grace, and I'm a sophomore at Brown University studying CS. Welcome to my page!
 
 <!---
