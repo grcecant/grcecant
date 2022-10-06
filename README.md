@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Grace! I'm a sophomore at Brown University studying CS. 
+# Hi there!
+👋 I’m Grace! I'm a sophomore at Brown University studying CS. 
 
 <!---
 - 📫 How to reach me ...
