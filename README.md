@@ -1,5 +1,5 @@
 ### Hi there!
-👋 I’m Grace, and I'm a sophomore at Brown University studying CS. Welcome to my page!
+👋 I’m Grace, and I'm a junior at Brown University studying CS. Welcome to my page!
 
 <!---
 - 📫 How to reach me ...
